@@ -1,0 +1,109 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://toadaid.example/schemas/toadgod-lore-record-public-v1.schema.json",
+  "title": "Toadgod Lore Record Public v1",
+  "type": "object",
+  "required": [
+    "schema",
+    "record_id",
+    "title",
+    "series",
+    "document_kind",
+    "languages",
+    "source",
+    "content_markdown",
+    "content_sha256"
+  ],
+  "properties": {
+    "schema": {
+      "const": "toadgod_lore_record_public_v1"
+    },
+    "record_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source_record_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "title": {
+      "type": "string"
+    },
+    "date": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^20\\d{2}-\\d{2}-\\d{2}$"
+    },
+    "date_raw": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "date_precision": {
+      "type": "string"
+    },
+    "series": {
+      "type": "string"
+    },
+    "document_kind": {
+      "type": "string"
+    },
+    "languages": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "epoch": {},
+    "chain": {},
+    "tags": {
+      "type": "array"
+    },
+    "symbols": {
+      "type": "array"
+    },
+    "sacred_numbers": {
+      "type": "array"
+    },
+    "status_flags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "source": {
+      "type": "object"
+    },
+    "evidence_boundary": {
+      "type": "object"
+    },
+    "frontmatter": {
+      "type": "object"
+    },
+    "frontmatter_raw": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "section_layers": {
+      "type": "array"
+    },
+    "content_markdown": {
+      "type": "string"
+    },
+    "content_sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "volume": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": true
+}
