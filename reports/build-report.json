@@ -1,0 +1,161 @@
+{
+  "corpus": "toadgod-lore-agent-pack-public-v1",
+  "record_count": 4690,
+  "legacy_records": 116,
+  "included_markdown_records": 4574,
+  "excluded_markdown_files": 225,
+  "platform_checks": {
+    "gemini-gem": {
+      "file_count": 10,
+      "files": [
+        "01-foundation-source-records.json",
+        "02-lore-scrolls-early.json",
+        "03-lore-scrolls-later.json",
+        "04-community-commentary-early.json",
+        "05-community-commentary-later.json",
+        "06-questions-and-answers-early.json",
+        "07-questions-and-answers-later.json",
+        "08-codex-reflections-early.json",
+        "09-codex-reflections-later.json",
+        "10-corpus-manifest.json"
+      ]
+    },
+    "chatgpt-gpt": {
+      "file_count": 10,
+      "files": [
+        "01-foundation-source-records.jsonl",
+        "02-lore-scrolls-early.jsonl",
+        "03-lore-scrolls-later.jsonl",
+        "04-community-commentary-early.jsonl",
+        "05-community-commentary-later.jsonl",
+        "06-questions-and-answers-early.jsonl",
+        "07-questions-and-answers-later.jsonl",
+        "08-codex-reflections-early.jsonl",
+        "09-codex-reflections-later.jsonl",
+        "10-corpus-manifest.json"
+      ]
+    }
+  },
+  "unique_record_ids": true,
+  "volumes": [
+    {
+      "volume": "01-foundation-source-records",
+      "description": "Foundation source statements and legacy commentary, plus unmatched T-series source scrolls.",
+      "record_count": 118,
+      "gemini_file": "01-foundation-source-records.json",
+      "gemini_bytes": 415302,
+      "gemini_approx_tokens_chars_div_4": 102044,
+      "gemini_sha256": "78fcbfbcd700038da78a40e99e4d4c2f0494c80862da1581fab4b4e61429b9f4",
+      "chatgpt_file": "01-foundation-source-records.jsonl",
+      "chatgpt_bytes": 415013,
+      "chatgpt_approx_tokens_chars_div_4": 101971,
+      "chatgpt_sha256": "fbd75b431b194e07b2bc023fb959dd9ac39c9d008d7d9b11ec076602dfc6426a"
+    },
+    {
+      "volume": "02-lore-scrolls-early",
+      "description": "Earlier half of L-series lore scrolls, ordered by date and record ID.",
+      "record_count": 537,
+      "gemini_file": "02-lore-scrolls-early.json",
+      "gemini_bytes": 2679424,
+      "gemini_approx_tokens_chars_div_4": 578662,
+      "gemini_sha256": "116fad9b77cb9b3b9e74dda9b5a75e1c5958bf4ecf8fbf321ecb0f314ba91439",
+      "chatgpt_file": "02-lore-scrolls-early.jsonl",
+      "chatgpt_bytes": 2679164,
+      "chatgpt_approx_tokens_chars_div_4": 578596,
+      "chatgpt_sha256": "2330d9e2f506e37b153bd86b83f5c62d449da1cf0253d98a395eba2fd733513d"
+    },
+    {
+      "volume": "03-lore-scrolls-later",
+      "description": "Later half of L-series lore scrolls, ordered by date and record ID.",
+      "record_count": 429,
+      "gemini_file": "03-lore-scrolls-later.json",
+      "gemini_bytes": 2666224,
+      "gemini_approx_tokens_chars_div_4": 556804,
+      "gemini_sha256": "3892a17b5c899bb05df03a6febbd48a653e15089147aca2b79b675699c6ded50",
+      "chatgpt_file": "03-lore-scrolls-later.jsonl",
+      "chatgpt_bytes": 2665966,
+      "chatgpt_approx_tokens_chars_div_4": 556739,
+      "chatgpt_sha256": "6374d678f931bd9d9e5bdb33077762c5a13b47badfe3c09f0b36cf34b1fe6ddc"
+    },
+    {
+      "volume": "04-community-commentary-early",
+      "description": "Earlier half of C-series community commentary records.",
+      "record_count": 776,
+      "gemini_file": "04-community-commentary-early.json",
+      "gemini_bytes": 4690967,
+      "gemini_approx_tokens_chars_div_4": 988651,
+      "gemini_sha256": "9b9aed6c8855f5a8a10b19c89e0782d9bc5d67adb8e7e6f56bd95d5dfab4926b",
+      "chatgpt_file": "04-community-commentary-early.jsonl",
+      "chatgpt_bytes": 4690714,
+      "chatgpt_approx_tokens_chars_div_4": 988588,
+      "chatgpt_sha256": "2135e275ddd9a9ee5104fecbe3dac7ba79002e22fd0e97dd771760f5d78be7c3"
+    },
+    {
+      "volume": "05-community-commentary-later",
+      "description": "Later half of C-series community commentary records.",
+      "record_count": 885,
+      "gemini_file": "05-community-commentary-later.json",
+      "gemini_bytes": 4687812,
+      "gemini_approx_tokens_chars_div_4": 997327,
+      "gemini_sha256": "c009d6de005a95f38b525ceb4ebfb88f3784ec3085bb6c39773c2955259a8632",
+      "chatgpt_file": "05-community-commentary-later.jsonl",
+      "chatgpt_bytes": 4687561,
+      "chatgpt_approx_tokens_chars_div_4": 997264,
+      "chatgpt_sha256": "81b04c6ec47ad448e9987450cc1475d63d40751973e639603743c6dda6b46c78"
+    },
+    {
+      "volume": "06-questions-and-answers-early",
+      "description": "Earlier half of QA-series lore question-and-answer records.",
+      "record_count": 394,
+      "gemini_file": "06-questions-and-answers-early.json",
+      "gemini_bytes": 3511308,
+      "gemini_approx_tokens_chars_div_4": 728355,
+      "gemini_sha256": "b018dc31ae0eddc8d287ee20cbb38d4d68019666db93e225f3c470a22cf04b56",
+      "chatgpt_file": "06-questions-and-answers-early.jsonl",
+      "chatgpt_bytes": 3511049,
+      "chatgpt_approx_tokens_chars_div_4": 728290,
+      "chatgpt_sha256": "680d31d975e1d5173b11d8c5ea745b99bc6c8e3dc51c4a9595bacd065a7b0d6a"
+    },
+    {
+      "volume": "07-questions-and-answers-later",
+      "description": "Later half of QA-series lore question-and-answer records.",
+      "record_count": 512,
+      "gemini_file": "07-questions-and-answers-later.json",
+      "gemini_bytes": 3505287,
+      "gemini_approx_tokens_chars_div_4": 730748,
+      "gemini_sha256": "86c70c88d336c977b47ab681534d70e90dfdc08089709f04df09e0b1ea64849b",
+      "chatgpt_file": "07-questions-and-answers-later.jsonl",
+      "chatgpt_bytes": 3505030,
+      "chatgpt_approx_tokens_chars_div_4": 730684,
+      "chatgpt_sha256": "f92e1abdb943bd3fab40f8f2c3115aaaf596020ca1d2951d20e90b95847af087"
+    },
+    {
+      "volume": "08-codex-reflections-early",
+      "description": "Earlier half of remaining codex, technical, reflection, rune, fragment, and public builder-context records.",
+      "record_count": 604,
+      "gemini_file": "08-codex-reflections-early.json",
+      "gemini_bytes": 3086090,
+      "gemini_approx_tokens_chars_div_4": 678865,
+      "gemini_sha256": "d38b83972be764c2d7c1f6e8a1f7090b768ad0aabfebe4babd6ed9fc3c965640",
+      "chatgpt_file": "08-codex-reflections-early.jsonl",
+      "chatgpt_bytes": 3085787,
+      "chatgpt_approx_tokens_chars_div_4": 678789,
+      "chatgpt_sha256": "2dff9765285e4e225dfc59ce0098a69897c60249532430df97c6dc23d3d39927"
+    },
+    {
+      "volume": "09-codex-reflections-later",
+      "description": "Later half of remaining codex, technical, reflection, rune, fragment, and public builder-context records.",
+      "record_count": 435,
+      "gemini_file": "09-codex-reflections-later.json",
+      "gemini_bytes": 3077472,
+      "gemini_approx_tokens_chars_div_4": 669426,
+      "gemini_sha256": "d92f646d1c7cd18db238de6508e86878a7d8d43e01bcadbaa96520c0091146ff",
+      "chatgpt_file": "09-codex-reflections-later.jsonl",
+      "chatgpt_bytes": 3077171,
+      "chatgpt_approx_tokens_chars_div_4": 669351,
+      "chatgpt_sha256": "870b9ead7a3286e73b84dd71e00d0c96dcce8219e60154b35f8206e75ea0abe5"
+    }
+  ],
+  "source_zip_sha256": "661ffe7e070ca5554e8ddbb72c29872222e74be8ff864fd762ce2a3e4060ef29",
+  "legacy_json_sha256": "34fc63274356d9616d8bcce9d1fab39327a23370c2b0dea901d2b4e45cb6a011"
+}

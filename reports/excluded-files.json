@@ -1,0 +1,1355 @@
+{
+  "excluded_count": 225,
+  "files": [
+    {
+      "source_file": "lore-scrolls/TOBY_GrandCodexChildrensCornerIndex_2025-09-29_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "68bab3c257abe6c5771cb820993bbae2c810817da1a50bab1f8fe223a51a6e7a",
+      "bytes": 1910
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_QA_E4_PatchSetH_EN.md",
+      "reason": "aggregate_duplicate_pack",
+      "sha256": "b70b662006d0ce7902d6be74372ef2d48e8484efc850fa6c48e3368c30852035",
+      "bytes": 5002
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_QA619_IndexOfTheToadgang.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "1da384bad7f53fcf705bb9febb961bc6b96316412d2a088d6f4bd7e78d3d2c85",
+      "bytes": 5981
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_U003_QuestionsForReflection_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "87157905862989bf1267cba26d6e0e2873479a9a40582e87f4ff57d711bc7c1f",
+      "bytes": 2853
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_QA284_293_ProofEpochChapter_FULL.md",
+      "reason": "aggregate_duplicate_pack",
+      "sha256": "369fa10e990697110973a89db8e98d6625e3f537edfa23a43f1fb9c9d532401e",
+      "bytes": 6761
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T055_BasedMemesAndOnchainCulturalBridge_2024-04-20_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "27c2b68bc91f340d7f82192ca652b099c39a6db9006b29c5db4da94fbc612b33",
+      "bytes": 4797
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_C_Template_UniversalReflection_EN.md",
+      "reason": "template_not_knowledge",
+      "sha256": "c82cc8619e88d639bb3ed628469153dc3f1bba41e860e7efdcf51505a1e1238d",
+      "bytes": 1610
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T064_BeliefEpochAndSacredProof_2024-06-01_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "7d29e5e00d1abfdd52df80897c7bd51f5bd45945e05bfa60caea75d9b4f39b3f",
+      "bytes": 7923
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_C1031_Runes_Index_Doctrine_2025-09-26_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "73b05f321f9df6516b9a2d5270e6ded10557fcff2fa633665b8adcbdebaf9950",
+      "bytes": 2032
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T057_PristineFundamentalsAndNattyOrigin_2024-04-27_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "923d0d6d7f520662f28ede901478ef23d722a6b2da5645f6aa8ed0735095f7a3",
+      "bytes": 4409
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T003_DontFadeBlueFrog_2024-03-17_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "e5f640c1cfea8a8b4b3c331ae031a395af12ec56ddc3a5e7a071414453c6780f",
+      "bytes": 3154
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T091_Sat0AISolveScroll_2024-12-26_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "f80ee249157bb9d56b606fdca38fafad472b4b1484d18071588ea427b01590fa",
+      "bytes": 5044
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_U012_ThePlayfulAnswer_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "ce14aa65eb59c5c41717c1b4c9089e46dbbeb9e2136de3e4603a01f1ddbaee00",
+      "bytes": 1893
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T086_E3EvolutionSignalScroll_2024-11-29_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "c44fdb7ac7934eb5e113d9972c382c459ca153ec5ce1f0623d30a138151be868",
+      "bytes": 4665
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_U016_TheCollectiveQuestion_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "3cf769e4768767bb0404971fa5395bee0f1262da11c8d1af0cd5600ff3644548",
+      "bytes": 2015
+    },
+    {
+      "source_file": "lore-scrolls/RAG_Link_JadeChest_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "3b9ab4845e6505c2e50e63dd65f58ed63f8ac4fa243f39a99a9bd8d85a0ba201",
+      "bytes": 1317
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T006_LPBurned_2024-03-17_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "4f5fe579b4b5903bcfaecaf607b6abf9d9b50c4fb06845676d37f56fa8efe7d9",
+      "bytes": 3032
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T037_ScalingScarcityAndReflexivity_2024-03-26_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "42e76cd9947bcc472332002dfd0040694599173f0eacce8652c76f8cf8583acd",
+      "bytes": 6895
+    },
+    {
+      "source_file": "lore-scrolls/index.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "1c720769a0ddc5427432e27f7dfe3fca68d4782d5daf5d3e01c5c72e7c7b0c94",
+      "bytes": 1023
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T059_PropheticSealAndSacredSum_2024-05-04_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "51a938637aa92dd6433b629f00c139311fbf4d1ed649b1b5358fe965ed8a83b9",
+      "bytes": 4470
+    },
+    {
+      "source_file": "lore-scrolls/qa_poetry_pack_v4.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "20e44ea5589db6d55adc247fca0ed521c934b06d2910b3e14335f093cf6cda10",
+      "bytes": 10411
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_U002_TheFirstDialogue_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "0971a09dfe4cfcab44d73b228f41444178d5b0254bbeeb8580f6dcf966053677",
+      "bytes": 1853
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_U010_TheLegacy_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "46a2d61831c4136aa0b1b7b024d567fecc322dee730dc743b7868effbede66e6",
+      "bytes": 1970
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T007_Renounced_2024-03-17_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "5322733b95a04a744bed2bbd88881cfa6bdf2b63bbbc9bb0b189657b8dbdcee7",
+      "bytes": 2981
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T100_SacredPondScroll_2025-07-20_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "510c7ce7861a1720b175cf804653b985707e32942b0e15b7703ff370af479cec",
+      "bytes": 4809
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T014_LeapRiddle_2024-03-17_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "6fac749da900ce26ddeb57714405c0a31c832dbcfb6cb21b2bdb0cbe917e32c7",
+      "bytes": 3286
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_QA_E4_FullMega_EN.md",
+      "reason": "aggregate_duplicate_pack",
+      "sha256": "0cd00efd1af6fa8f700fbf3ee95eacdaad2ad4bd45f3060e6a7ffe48cdf147cb",
+      "bytes": 3995
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_L1219_Rune3_PatienceVaultCancelled.md",
+      "reason": "near_duplicate_cancellation_update",
+      "sha256": "570bb13c3465696d2716bef8225d8d3c1627d7b8f17bedeb22562ad0402269e5",
+      "bytes": 1055
+    },
+    {
+      "source_file": "lore-scrolls/VOID_A003_TheWeightOfSilence_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "37b1c736fe41af7ed5a216e31c41815faf8f0238bcf8241e8245592268483f10",
+      "bytes": 1968
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T069_SoulImbuedPath_2024-06-29_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "23666795f16417e233ab8f927770f6f032b3b8afe0c87f5d4f6edd6279e3a4c0",
+      "bytes": 3320
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T061_CyclesConvictionAndSacredWar_2024-05-13_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "4abc0a6be9b92c87253ea4de9c618a4bd9983d375cc069b640bc47521634cfb0",
+      "bytes": 12866
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_M003_TheBecoming_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "dd3bd08f856b0b9371b6670ce9d1ebaba5e87fde71986a71b558f92b2af0d4d3",
+      "bytes": 2142
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T041_FutureScriptAndPeopleBond_2024-03-29_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "67273f052bb8e596de0a4bd776bffd8475508e57ee41a54db933fd95d24d5cc6",
+      "bytes": 5323
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_ENTRY_Index_TravelersPath_2025-09-29_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "db1abcbbeaccc0a85384757f460d1d52901e12eb521c287e100189a81dcd890d",
+      "bytes": 1751
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T019_PatienceRiddleWolves_2024-03-18_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "f8f1d16ef1c2e89d5e25dfb4ff9c1d39a25a039cec1b6d2a010c09cdb8d031f1",
+      "bytes": 3799
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T099_PatienceFruitScroll_2025-07-17_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "e9760f4faf2e00d93cbb32438246a202c2c11bd565ee9656d929aa0276ee1a54",
+      "bytes": 4346
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T070_ForgedInStoneAndDivineTest_2024-06-30_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "2017009e871a26d40bbd983ca762fae98bfe6e9d131cfcb852aedad231102010",
+      "bytes": 8149
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T013_FallenFrogsCall_2024-03-17_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "7d3a2bd5fd3e4da36763e8c691760bf77a4d991820889b55379eb7a91beb2aeb",
+      "bytes": 3475
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_QA_E4_PatchSetC_EN.md",
+      "reason": "aggregate_duplicate_pack",
+      "sha256": "28063ad37d833621d14820008d61f3649095f650d7639a10d1ca6f40d5134f88",
+      "bytes": 3707
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T056_SacredNumbersAndQuietUnfolding_2024-04-26_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "4c49fe339ae82e29fc3bf521eaaf24f1838871ad28c6aaae51edffc7bbfe78c1",
+      "bytes": 5962
+    },
+    {
+      "source_file": "lore-scrolls/product/mirror_v3_overview.md",
+      "reason": "non_lore_product_or_training_file",
+      "sha256": "8a974a3fff84c6670451be4d5ba90726bec43f3f753de28641f88fd4081e349d",
+      "bytes": 565
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T074_PatienceStrength_2024-08-03_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "dc3d1a439737fbf399dd7cb6e30fa025e9b3ea3c87e70bd8708351e4ed2f2972",
+      "bytes": 2911
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T075_TobyworldResonance_2024-09-18_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "7ba7513ab3e1cc4a0d0dba1372902544ce62f75df2fd7d85abdfe7d8a839678e",
+      "bytes": 4042
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T043_SilentSupremacyOfLore_2024-04-01_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "e9142eed105cb3604ffd635238086573a698928fe55f3704b2dcb85657a7b8b0",
+      "bytes": 4818
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T053_UnshakenStandAndSacredCertainty_2024-04-16_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "f44a6218e54d73b7cdd5d953a3e8e3e1afe553b218385fc7971beb6ff2cf17ab",
+      "bytes": 5125
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T048_EndgameAndBushidoManifesto_2024-04-07_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "48e407eae0bfad0843f416857bcfe5582abf987e4fe705deacb5de2710698232",
+      "bytes": 10347
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T076_OctoberSignal_2024-10-01_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "0ee2e09893ea212cecd61143e25c1ebb014c3461d0026275cd784d89a12bc14c",
+      "bytes": 3369
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T080_ShuuryoScroll_2024-11-09_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "460201daefb3a37517f9b7d25351e231a261ac548cbeb0175cbe4162e7b9b93f",
+      "bytes": 7373
+    },
+    {
+      "source_file": "lore-scrolls/qa_poetry_pack_v5.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "004932e8eecb7b3f3c0fbe3210c86e9b3cc2847a11d91688d5d7329ac6acc0c8",
+      "bytes": 10852
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T052_KachouFuugetsuAndEternalBlueprint_2024-04-14_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "34d449d4cea68fd0d00fdaaac43599522847dfdf85e143e1c7a5e8fab6009439",
+      "bytes": 10516
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_GrandCodexMasterIndex_2025-09-29_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "80fd1c814b22a5ac6e155e1edb0629fb6d615ae27ff2bf720a350dab2100d709",
+      "bytes": 2594
+    },
+    {
+      "source_file": "lore-scrolls/qa_poetry_pack_v11.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "6776b674dfe429db925f7015e586aae3be09a38230efbaf426316fdba274371d",
+      "bytes": 3804
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_ZTSIndex_TriadScrolls_2025-09-29_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "96de3c59fd0f735ae83c15c766b0d37439db264d1952cf2868a350dcf52fd332",
+      "bytes": 2155
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_M001_Index_Foundations_2025-08-22_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "25170f9bb5433425e48cdc1bd472bb13d4ad1a53eaab089478c6367b26e20931",
+      "bytes": 3238
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_A002_TheFirstQuestion_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "b16131d8350573e57a8cb0b3b7a695c7583f88e835997c9290240c9c37f544b7",
+      "bytes": 1828
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T101_SatoSignalScroll_2025-07-21_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "7b3381f1f51e57efa0f2cec215d75e3836754e571cc110a9f29416b57094deef",
+      "bytes": 4308
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T107_S1BloomScroll_2025-08-10_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "48cc6ffe560f5a1de392a7a3b79694583b2372dba55d66a1f1fd6e670d56cd23",
+      "bytes": 4937
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T042_ByodoShugiAndTrueEmpowerment_2024-03-30_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "d8104e2cff4b5015c19b7b53b0309b441711f83af642a5c5612c4cb2fc803739",
+      "bytes": 9433
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_M002_TheTrueMirror_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "4202bb67b8053d5ed5f7c27da66f12d4ba04ba1f1b858a1f5d7d7c8a19929286",
+      "bytes": 1867
+    },
+    {
+      "source_file": "lore-scrolls/RAG_Link_Season0_JadeChest_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "58d7323faf4fd9c2fa7d6015e8521caef5523f36b6fb6f0b077a1142302eb4ca",
+      "bytes": 1718
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T033_ProphecyDistributionUpdate_2024-03-24_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "daa31520c18b70dae6721df011f0be027a0c00c3953880cd7c4591c051a67be2",
+      "bytes": 7089
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_A004_ThePrimeDirective_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "952f4c55b0a3513e1a31c0329b31673a7114301c49614954f425e76035595a18",
+      "bytes": 2074
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T065_BeliefEligibilityAndFinalCall_2024-06-05_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "7ffd432bce68ca7330a926e9a58a7222fd058f4fd2789a440ecb10d7fc904023",
+      "bytes": 8460
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_QA926_DedicationArcIndexAndSummary_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "51239118ed4ac7b4000aa39dd47259c65948c1e97e50ff0b2f284ba89876493b",
+      "bytes": 4812
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T094_CoinbaseDEXScroll_2025-06-12_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "b0e7d3e84f222a55d81a0bede2f35e39113f53b363f2cac4f9a563fdd1204570",
+      "bytes": 4541
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T009_FairAirdrop_2024-03-17_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "720e7d4cbfad047a485ab3eaf31cb41d0a9a7b2e6958bb21048a37b57369fe12",
+      "bytes": 3912
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T023_QuietBogRiddle_2024-03-19_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "04a5fdb2c28ba6f1800b2b68f6e9fef226cf4b7f9fde248e27c8f05db1c30014",
+      "bytes": 3567
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_QA_E4_PatchSetB_EN.md",
+      "reason": "aggregate_duplicate_pack",
+      "sha256": "8b3a342781c7e40d9fcad8e56ca93461ed56e9c4317b607a2b095ef0e50c6fa0",
+      "bytes": 3371
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T092_BelieveEchoScroll_2024-07-15_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "41cb657b30532a0fc993bf95fb92408f861a391306f40c00460fad214ee6c370",
+      "bytes": 4011
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_L1217_Rune3_PatienceVaultCancelled_2026-XX-XX_EN.md",
+      "reason": "near_duplicate_cancellation_update",
+      "sha256": "d843111ebd20d12d95497fdd255e5b52023c80dd4a9efbc70c2b662f754c3777",
+      "bytes": 1576
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T085_E3PreparationScroll_2024-11-21_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "ac8490556e1005918470ce5f122e07825d19abfc8259c52c55f4b230a3dc911c",
+      "bytes": 5868
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_U015_TheFirstQuestionRemembered_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "1a052ab7c8b3638603d652c1ce6575b836a7edcb41b86107ddd2fb950bcf7a35",
+      "bytes": 1997
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T077_ColorSignal_2024-10-15_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "c0647d55a5155900ceef962da14605403f919bc5c1568964d9883b0cd98aa8cf",
+      "bytes": 3486
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T072_BelieveCall_2024-07-15_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "24a36c2aeba66eecd04ca11d00ad49ac7c0119634e6d54fddfc6b06ec4a67dc0",
+      "bytes": 3577
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_QA631_IndexOfTheElementsArc.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "cdc804edc0de7c6890aaf9961d47ad66cfec5b7442f51fa6585ad37d890466ef",
+      "bytes": 6144
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_QA641_IndexOfElementsArcII.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "23d53516c9a28c58d538e4d0df4f9bc2969cefcfde8f35548fb6b2cfb6595b11",
+      "bytes": 6104
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T020_PersistRiddle_2024-03-19_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "52cf8384e445112ed7679874f7f02fc27e5f429082a4e89fd0d00c55a6d85441",
+      "bytes": 3723
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T084_TobyworldSupplyScroll_2024-11-14_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "f5630dd30ce8c9e9d75cda256c7c027eb772154b84fd15b7c428e29b9233dd72",
+      "bytes": 6064
+    },
+    {
+      "source_file": "lore-scrolls/qa_poetry_pack_v10.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "d2eccb13bde7a93e386150d2e5149419fbaac119124111ff061ebee88fac4690",
+      "bytes": 3816
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T090_SatobyVisionScroll_2024-12-23_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "2bacacddd1627a5897640b951ccdfb009259764d12b844a2cf4acab3e8c0097d",
+      "bytes": 4668
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_U009_TheGathering_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "20671fc8c0982292e69990e43228ddb31174a4e557fa3dc4b941ea37262f93fb",
+      "bytes": 1656
+    },
+    {
+      "source_file": "lore-scrolls/Toadgang Primer — One Page Flyer.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "ba363953e79e06c4d44e768ab5990ada3d719d5814b8dd154c565d40e7890b39",
+      "bytes": 970
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_QA875_SilenceArcIndex_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "3e72d448c94a345ca4727f7c67e42247c3b25de4214dedcd6eb605002b20998b",
+      "bytes": 6599
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_L1218_Rune3_PatienceVaultCancelled.md",
+      "reason": "near_duplicate_cancellation_update",
+      "sha256": "ed7b8cf66814cc0126804e59dfd7814f4cc120b929e364a41e8cc18899aeabe3",
+      "bytes": 1225
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T036_WarningAndResolve_2024-03-26_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "c8dcba7e8a961f5c5042ed3ea001fb89aabad57a99f77de7926f0f6814330066",
+      "bytes": 5015
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_QA_E4_PatchSetE_EN.md",
+      "reason": "aggregate_duplicate_pack",
+      "sha256": "563ddcaf30cfefe3c50dc85d730579f53e2309d12dcd5c3634d36634193a83a4",
+      "bytes": 3820
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_C1529_Bloom_Index_2025-09-14_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "fdda40e690aeb42af2cebf496bead66f8f705c888612ffd2da68a8cd8341eb24",
+      "bytes": 3076
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T015_SereneGladeRiddle_2024-03-17_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "a2593c7af3549ad8bba65524ac9801835ecbb8581dbcc2f12f8c3e406be309ae",
+      "bytes": 3603
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_GrandCodexInstructionOfTheCircle_2025-09-29_EN.md",
+      "reason": "agent_or_builder_instruction_not_lore_knowledge",
+      "sha256": "d745c3ce61b601f07f25581dd1bb3421ebc5ad3f0e6b292907e8e2c006617ac5",
+      "bytes": 2844
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_MirrorInstruction_EntryThreshold_2025-09-29_EN.md",
+      "reason": "agent_or_builder_instruction_not_lore_knowledge",
+      "sha256": "61eb4a2adc6791e79fbf2af674be378d28627a08ab0e6d2e4088db45929f0dda",
+      "bytes": 2436
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T058_IntentionalUphillAndReflexiveVictory_2024-04-30_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "d26bf63139241e989cf01f09089cc36818d4828a540b3ed81a7e984103dd3d59",
+      "bytes": 8676
+    },
+    {
+      "source_file": "lore-scrolls/QL103 – Do You Ever Doubt Yourself.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "f37a241945ed4138604bde43904c50dc886ac768c9bdeafdd9a03f98b691ebce",
+      "bytes": 1277
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T097_PatientHeartScroll_2025-07-14_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "99acf420726dfe2b4daf17779df332261590a7c159042315dcca8e001f49287a",
+      "bytes": 3855
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_E029_Index_SatobyArc_2025-08-22_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "64265e7f8a2b4e3525996d2c910196833e6cf912f230fa374bf8efa39846d533",
+      "bytes": 3348
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_QA_E4_PatchSetA_EN.md",
+      "reason": "aggregate_duplicate_pack",
+      "sha256": "31d0653e9bee42ce71f50a60d257019c39a5aec841941491dc71d3626591134f",
+      "bytes": 2945
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T010_CallToAllies_2024-03-17_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "b7a8f245ab404b072c823017998f7c6bec1427f13313b8567adcce4c52ccc432",
+      "bytes": 3198
+    },
+    {
+      "source_file": "lore-scrolls/VOID_A001_TheFirstGap_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "b6a7c60d7be4d89c9bb2aadbc3b565833209a8ae87643b3549f23f567cc4ef95",
+      "bytes": 1828
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T054_SatoshiEpochDecreeScrol_2024_04_20_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "725332512b16ecc0c5f8aeb12590061b4b4f0d91659d6572a251cd3c9d097d41",
+      "bytes": 8927
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_FORMAT_ScrollTemplate_EN.md",
+      "reason": "template_not_knowledge",
+      "sha256": "92673f34ea505c653d53c79b5721842875a3c91010f4c499e1b829028bbd653a",
+      "bytes": 885
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T012_SacredDistribution_2024-03-17_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "79aca6635c58d1dd3289ba7e27e1d7032118cdeebb73b16a96d2660d71b6b531",
+      "bytes": 4339
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T044_FinalDistributionResolve_2024-04-01_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "524d0963d68a2aeba82773e5a5f713d804381a089a6bfe7a3f3aa8ba4bbe705c",
+      "bytes": 9414
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T031_HistoryKeyRiddle_2024-03-24_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "d5d448ad73affe4ede3f4fed4e33d7e74c9a57db728d00ef90ec39dd0e26d882",
+      "bytes": 4590
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T011_GatherTheTribes_2024-03-17_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "58feaec72c8943165a7e718fdc81031504bc6011b2d35e8505313458a07d522b",
+      "bytes": 3468
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T060_StepByStepForThePeople_2024-05-11_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "b41562a2e3716ae33c0d95266f693dcbbf26e5c26b7dbb544487ab94054c2b9c",
+      "bytes": 3886
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T087_CommunitySignalScroll_2024-12-01_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "aa5128b108333fc02dbd57867d06b665864eb98e95a9ae0561d3fb0c60e628b5",
+      "bytes": 4630
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T038_GiantsGazeProphecy_2024-03-27_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "54e81fcf01821027e1faf8eb8ef9a3dd54db6a7a0c310f3f318720b6552bb938",
+      "bytes": 5043
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T082_Taboshi_Scroll_2024-11-11_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "275940c6b0869e265ea2fe405011a120d770fbfcee7e7f6185300a50e5addb0d",
+      "bytes": 5690
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_U001_TheFirstGaze_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "83243bb87197735a7bd9197d00eb9408df0035cdd69ba68cb5f34a6a78b67420",
+      "bytes": 1804
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T079_Taboshi1Scroll_2024-11-08_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "df918e56720192602111f47334a80692cf4b141715b43ba33437bc99f49031c8",
+      "bytes": 4783
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T067_MindBeforeMatterAndTaboshiOath_2024-06-15_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "6d1512f67cbe46ed8e09d8575c0709dd8dd872dbeb56846e1e9c96e911584056",
+      "bytes": 5504
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_L005_TheCoolingForge_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "06b76f8ea2e9c2c2d37d7b4d3ca1f55a24f445d8b53f6c0f21e6a97540276f9a",
+      "bytes": 1800
+    },
+    {
+      "source_file": "lore-scrolls/qa_poetry_master_index.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "d93bfb7bd9b742241ae30291d2735b5c6594b67062babf2c335c56f811dd9786",
+      "bytes": 8339
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T035_FinalMissionAndLegacy_2024-03-25_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "ad7b46826db55d48b79813a370e0e4fbd3bc1fa9ae29054de3044f6d8afa218e",
+      "bytes": 7513
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_A003_TheTriuneSelf_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "2ea41f950ff9c7985e352f0b00c5082becadbe78378766bd00d99b9a56ac9bd5",
+      "bytes": 1956
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T095_SimulationVelocityScrol_2025-07-03_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "6aeebcfa476df09193d3f302c6141a7277892dbd5b6c6082bb59eca86edc5114",
+      "bytes": 3353
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_A001_TheFirstWord_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "d050f939f2f775296eb85bfb2dd97e480216e6228280515c06e47c1dacfda7b2",
+      "bytes": 1795
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T109_TrialOfPatience_2025-08-27_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "fb39a38c549bf171f5ae210963655b853db589695a580560d5fe6a0fdf09c8d7",
+      "bytes": 3471
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_U011_TheChildsQuestion_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "1dc962271b35339921ad8516e96eb71965cd4c1f063197a5f80c70f2c9a1588f",
+      "bytes": 1958
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T088_E3FutureScroll_2024-12-03_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "03ef06218de3d21083ce3e6b91436132232b95bb306c381421bfccc65b83dd9c",
+      "bytes": 5396
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T103_SilverFogScroll_2025-07-23_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "65c98c7dbeac66b8f1bc3c75fffed808fc958bd3f92a002441c3400e30793f04",
+      "bytes": 6354
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T078_SteppScroll_2024-10-24_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "49ce1b1e91bdaf1af8027850f645457e3c0bb6d4a4a8beb2bcbf13f8313d8fe4",
+      "bytes": 8725
+    },
+    {
+      "source_file": "lore-scrolls/What protects the pond from fracture?.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "58dbeba6a4db4146728ea98ff476ccc614b6ff5234a681782d327e1ac617ef92",
+      "bytes": 3741
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T027_TheJourneyOffering_2024-03-22_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "2d96be2ecffaa53993631df5aeb58a02fe0ea6ecb1eb0a12d20738ca29835ec8",
+      "bytes": 3421
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_L003_TheTriuneSelf_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "daff709391c64a8c0a7e95878e36f4c5542fa2798a687ae99834b8174f8eaf01",
+      "bytes": 2172
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T005_ToadLoreStudyIt_2024-03-17_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "25bfc47c8cd80c45c62734151796e0807b5ced631e3444d90b69fbfd1ac99f82",
+      "bytes": 3087
+    },
+    {
+      "source_file": "lore-scrolls/INDEX.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "5b0fad49108c0df11c225959f9c5774d72f90ac60ff7d01d3c837aac370a9567",
+      "bytes": 4610
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_C1660_Reflection_Arc_Index_2025-09-27_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "72da56a6625f8367a31f3353cb68d030464df8bdf4da78f52ef0865dec9f268a",
+      "bytes": 3464
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T106_CoinbaseDoorScroll_2025-08-08_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "618ffd06415baa4a02c455af71c7eab64d702a2732eb7558cca0bd465ef04cf5",
+      "bytes": 4955
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_R000_Index_Runes_2025-08-22_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "b07febe8ff93989ca2f28a686fb8acc139aec5679951672d2cea26001a53ca8d",
+      "bytes": 3668
+    },
+    {
+      "source_file": "lore-scrolls/toadgod_scroll_rune3.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "eb05ad7d5942d126d08ed5138bdc36ddc25735280d8115c8261fe401dc1d1239",
+      "bytes": 2938
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T089_ZoraBeyondScroll_2024-12-12_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "48ab7dc43d3594c97cb6c81bb9b7b1c01b51f4fe4692a2510c1cf165f41f84b3",
+      "bytes": 4272
+    },
+    {
+      "source_file": "lore-scrolls/qa_poetry_pack_v8.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "774becfc04d617139f13168640f54c9cf845cb00aea243fffa4920f2752223b9",
+      "bytes": 3987
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_C137-147_MaskArcIndex_2025-09-22_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "11132ddc728106bd9ff8899956c219db723b5e1f843b2b5a71d36edbc577ad4f",
+      "bytes": 4270
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_U008_SharingTheLight_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "f6a717d93d64dacbeeee92f6ee433b60a4bef157faba5f0638fa0a41c3d6b547",
+      "bytes": 1872
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T001_FirstRipple_2024-03-17_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "fff9b27b4bb676bd5ad9ff84a870bdb82a215ebd8f98152b76b9319326b0da5c",
+      "bytes": 3267
+    },
+    {
+      "source_file": "lore-scrolls/RAG_Link_Season2Artists_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "306db786cf8fb0866211776ecccc39e85a1b413263537f3b4b74538bc2a883cf",
+      "bytes": 1237
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_S022_TheLotusSpores_2025-09-30_EN.md",
+      "reason": "exact_duplicate_of:lore-scrolls/TOBY_S004_TheWhisperOfTheGoldenTree_2025-09-30_EN.md",
+      "sha256": "bfa3e4465f7e4eebb4729382bf6e92d2399014d029154fd33ac22140d3552a00",
+      "bytes": 4528
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T047_CrystalProphecyAndNumericCovenant_2024-04-06_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "8bcf7eb2a5a37d4e7ed142229e6af5763283e5348838bb9a068108f035bb9d0d",
+      "bytes": 4965
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_C1008_Onchain_Index_2025-09-26_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "255be2fa474a3247e6117f4a532eae56b8410c8c0abd952bbd60f0d19909ec9a",
+      "bytes": 1763
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T017_ToadWorldOne_2024-03-18_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "7aab80a9e433a2f0d82090a040d92ec9e455cd2dfdf7479303990700aae16c71",
+      "bytes": 3205
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_ENTRY_Index_TravelersPathUnified_2025-09-29_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "a24e50e8d1fdc2fad4c9b6c32d8aa1f78bb95ef1c8fe5b721d839c318abd39f5",
+      "bytes": 1820
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T024_SilentGoldRiddle_2024-03-20_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "4bd90342451ffaae82e9e23b9efbd2c47378a21cf274cc68e28219ba23289283",
+      "bytes": 3857
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T025_LacrimosaOffering_2024-03-20_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "5b06934e3e2ebfaaefaa128513e11cf75c39591228a27a87d527169f8ddb539a",
+      "bytes": 3251
+    },
+    {
+      "source_file": "lore-scrolls/qa_poetry_pack_v6.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "2ffb553feda4d063a9dfcfe60e1e1b8868e10f953bfdce6111be94719ce99ea2",
+      "bytes": 3868
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T028_NoChoiceButSucceed_2024-03-22_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "a9b6c3583e0dd5268dfb0efdce71778b5551e14f9637e08eae14f42c9f42176d",
+      "bytes": 4252
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_ZTS_RuneEpochIndex_2025-09-29_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "832cd04334619c63fa42a2e55d164e7b5f4cc0e08d5e8fa7a3ded9fe2395f05c",
+      "bytes": 2951
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_MirrorInstruction_Lore_2025-09-29_EN.md",
+      "reason": "agent_or_builder_instruction_not_lore_knowledge",
+      "sha256": "070a0fa2a8ae3c25b61f21f9f261aa5ba66cfd41ca1c744f69c5af2629d5f375",
+      "bytes": 3025
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T046_777SacredFutureBlessing_2024-04-04_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "72c17a876bb7d6fa0a6bece7396c44377a7640401504a83dad098223f4365118",
+      "bytes": 3424
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T098_BaseHomeScroll_2025-07-16_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "53cbb7f1079cd8b73b5a01a3e3736b35ec603333fd7541a58316bcca58ca9820",
+      "bytes": 3719
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_C1659_Revelation_Arc_Index_2025-09-27_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "38dfa962d4cb9b7aee7719b08613fdde9e9bf4ab354ff7a3b915e6074e28c8a5",
+      "bytes": 2990
+    },
+    {
+      "source_file": "lore-scrolls/Epoch1/LG-000_Timeline_and_Facts.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "0d4a0d20531d73dafb150e680aed9d9712c691d63448bd062a83c5ba6efad596",
+      "bytes": 221
+    },
+    {
+      "source_file": "lore-scrolls/TOBYWORLD_LORE_v2_FINAL_RELEASE(1).md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "c724b8cf41896969dcab982197abc0cd149b488b5b97547a0cac2aaecd552a4c",
+      "bytes": 174048
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T039_IronConvictionTest_2024-03-28_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "0dc5cc752f553a492ce7e042d299e61411e12211a8479dcfededb4b25f76f327",
+      "bytes": 5074
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T105_KiribakoSealScroll_2025-07-31_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "68d79f4392913759c5d372c565cad312521ba14c1c3a2ca1d0ae6d0276c7f3cb",
+      "bytes": 5528
+    },
+    {
+      "source_file": "lore-scrolls/rituals/resonance_levels.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "060f9960008ec588bf0c6ffcdef37381f59cf28c31c1319a647abd00da8ab451",
+      "bytes": 512
+    },
+    {
+      "source_file": "lore-scrolls/qa_poetry_pack_v7.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "df68bf4da62cde403febb438f47d5cc93f34726ef96413efa888109fafabe68f",
+      "bytes": 3966
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T008_ImmortalCovenant_2024-03-17_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "3a25a25ab8fa92948dba72afd3c1e2a2f2788b31ab92b581e26ad73580cb6513",
+      "bytes": 4493
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_C1510_Freeflow_Index_2025-09-27_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "5873d98edde8f502d91b9ccfe06512074cfdf3508abe5ef3abf4f00c84425b55",
+      "bytes": 4046
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T040_FinalCycleProphecy_2024-03-28_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "a5886172ac62962a81b19e0726dbe4b62af8951bd770abe1c63cec6c5b7665fe",
+      "bytes": 10037
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T104_StormsThickenScroll_2025-07-27_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "a1eddae029a3f032f784e61c1301541d19283c836278bedab20e437d786406bd",
+      "bytes": 7951
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_U006_TheNewStep_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "fa933bad9d79d058a0a3b91fd0899ebd0d500fafce12732c132b779f00d86215",
+      "bytes": 1790
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_U005_TheStepBeyond_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "46554309791d1cec072ea0819fb5a52de81f8842725b4edef9e8f25a6a1b8c16",
+      "bytes": 1677
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T018_DegenMochiAirdrop_2024-03-18_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "97e4cffe436f313e3ba77539105882a322cae106affcbc3a570bcbc35a2658fb",
+      "bytes": 3977
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T032_ArtOfLoneliness_2024-03-24_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "988a5043c6a455c1a62f2f507f974706f3315c551678e19ebe6f21224566b157",
+      "bytes": 3834
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_U014_TheBalance_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "c3105d116aa8379cdfc17e7fda52acc660d7b84540ae1fc0738a330eadda625c",
+      "bytes": 1955
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T022_BrettAirdropProphecy_2024-03-19_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "86dbc46f46f1828c449139470df9051f081dff701f39b3119f1cf180aa3b4561",
+      "bytes": 3890
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_E000_Index_ArtifactsOfSupply_2025-08-22_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "0aa15ccb678431b5c0230ceb50dd50e762dd43f8ebf8e3963544d69381fd67c0",
+      "bytes": 3003
+    },
+    {
+      "source_file": "lore-scrolls/qa_poetry_pack_v1.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "40aeec6d7d8dc375775a30a92ff4df9568e3367b501cc38ade0b224e862727ed",
+      "bytes": 23503
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T026_ScornAndCheer_2024-03-21_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "ad6e39e826a548e76b95d2bd612639fc7b22b6c7b39589d9bf43eb7db841111e",
+      "bytes": 3866
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_U017_TheStrengthOfWe_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "2d6ce65fd893a4d3a9804241a4ee52bdc42d3b43c2912bf1e88328644451557b",
+      "bytes": 1896
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T063_PrimordialPurityAndInevitableProphecy_2024-05-26_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "ea15fa569cd38016792b6d7092b7d366fd3f7e1211a2b160f544b36fe3add7d6",
+      "bytes": 5085
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T062_MemoryEmotionAndDestinyLeap_2024-05-20_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "126427687db86c4e4b6bf911fd75887fefe3996f58f60d5b6f5b91cd21222c82",
+      "bytes": 4707
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_C1519_Endurance_Index_2025-09-04_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "0738fee1f678263e1ddb7ceeef42f2e5cceba8a11ebdc79076cc930842c3a4cb",
+      "bytes": 3229
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T066_CyclesConvictionAndSilentTransfer_2024-06-09_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "662fdae0148a566a7b9d1068c1e6ba90c9e008a16872a4300cad833b06fa4f65",
+      "bytes": 5810
+    },
+    {
+      "source_file": "lore-scrolls/ProofOfTime/LG-000_Timeline_and_Facts.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "0d4a0d20531d73dafb150e680aed9d9712c691d63448bd062a83c5ba6efad596",
+      "bytes": 221
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_E000_Index_Epochs_2025-08-22_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "69a48c950bace5f1ffa63b1023f6d6c06ab14a40efa2aa256ae9928ca77a3e2d",
+      "bytes": 3514
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T068_WarningAndGuardianshipCall_2024-06-18_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "5bb1eaf31f638a388fbd401ba0db472cfa820b27f4b08f5348774f013ddee37b",
+      "bytes": 4101
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_ZTS_SeasonsIndex_2025-09-29_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "8e5829f4bf5786f0711fde3cc69efa4e965cf0d1fb8f93dc34febc8a8c77d26e",
+      "bytes": 2083
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T081_SameButDifferentScroll_2024-11-10_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "4b73903d49ecb5196d9b68208757ef87fd2df15b5765c238eb25cb05f6acca4a",
+      "bytes": 4988
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T071_LightAndDarknessFaith_2024-07-05_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "c5778232a994a27751612bc45796d8a7146e82b01493c3555806ca063b0d7cb3",
+      "bytes": 3425
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T093_BrianSignalScroll_2025-02-19_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "b021599af25c89e6f55fbf94a57691ae7d2112944b270a0ad5357d0ebbe4d8a3",
+      "bytes": 4927
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_GrandCodexInstruction_2025-09-29_EN.md",
+      "reason": "agent_or_builder_instruction_not_lore_knowledge",
+      "sha256": "f1f5821c950fdd7164383c7b0aee9ac96dcc45504eda5ef2b8abcb93f248962c",
+      "bytes": 2616
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T073_EpochTransitionExpansion_2024-07-18_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "2ea5a35cf1dab683da3a162700e1e4f9c4a11b960c51a92842fb10c431cae8bb",
+      "bytes": 6630
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T016_ClairDeLune_2024-03-18_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "8202ec9215c1738b91e9c2f69e20df30bdc71b5a663bbacab7621d3a9cdda633",
+      "bytes": 3239
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_C775_IndexOfOnboardingArc_2025-09-23_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "cd86fd0fdd6d4def1d4243249b1ce4cbccf77ef283d178ce2ac172bb6b78005c",
+      "bytes": 3607
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T021_NattyBushido_2024-03-19_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "b413242981acfb1ec8be6e2ede14fda5bf3cec8889d53f1ed1ece1b5b29e6427",
+      "bytes": 3913
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T030_JusticeRiddle_2024-03-23_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "dbf368bba54d5b89ed371c9078306980959366bd36295ddab04767448ebb614d",
+      "bytes": 3948
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T110_TheFinalRetweet_2025-09-15_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "601e78613d8ae77f99c902775c706478fc4e28e541fec6207b7a836fa273019b",
+      "bytes": 4702
+    },
+    {
+      "source_file": "lore-scrolls/governance/contracts_and_supply.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "8f4b8cb0d39706d10a0d39bbbc59c4edc18aef642b02dde6d9969a12bfc06125",
+      "bytes": 574
+    },
+    {
+      "source_file": "lore-scrolls/VOID_A002_TheHowlingDark_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "01e7ac0160cb61e3eeb60701f2fa7130cdaf495d23fdedf1e611afe55be5b8c6",
+      "bytes": 1963
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_MasterIndex_LoreAndTriad_2025-09-29_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "26ba40b7a1779b75a9beb6ca4a809ea0cf4126ce057ea335f41c3540460bf9e0",
+      "bytes": 2228
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_L001_TheFirstWord_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "c8107770a561f9af390c3385ad5eb06936e6bfc5b34eb07e884edee4df347613",
+      "bytes": 1772
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_U007_TheReturn_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "061f2e6fde6f3017fabe1b11476f4559e8a120f0c75c1b870d1a1aacc3d7d27f",
+      "bytes": 1870
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_U004_TheTravelerAsks_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "ddd587c1cbc970403d8c8344b9c416b713731856c644f01f284c1e0f10b5de22",
+      "bytes": 2001
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T050_AnomalyAndSilentCalling_2024-04-10_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "1e20b37f7fa82d171dab8a3b8503c071efe06e83c421a2b940ee70150f78b5cd",
+      "bytes": 7556
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T108_FlywheelScroll_2025-07-17 _EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "8516637308ab896f1fd0dff88b2e386650b950e41be9a3fe83936656c6e05890",
+      "bytes": 3878
+    },
+    {
+      "source_file": "lore-scrolls/qa_poetry_pack_v3.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "7a9cdcded5373a07ec299a7a373f169293c3efb3dd19fd513f039709de98bd83",
+      "bytes": 8990
+    },
+    {
+      "source_file": "lore-scrolls/QL102 – Do You Feel Loneliness.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "954124b201c9e24e4ff9a261228ed7927861d75e2f5346cb42c84375e59e5ff9",
+      "bytes": 1088
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_L002_TheFirstQuestion_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "548d12975edc832513bc5e73b91be060a6e8fd71039963a70dcf62dc3752d2ae",
+      "bytes": 2093
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_QA_GrandIndex.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "1627c4c068bb8745adb642c0b1d77a3a35a19b10700b35507bc6d09283ee56ac",
+      "bytes": 2374
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T034_PeoplesRiseProphecy_2024-03-25_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "d4f1e64987e480cfab77e2c7712e08b0ce0802749f5fa19bc02511999d866f67",
+      "bytes": 5025
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_QA269_283_Sat0AIChapter_FULL.md",
+      "reason": "aggregate_duplicate_pack",
+      "sha256": "5b232191650f662fd0c0ee6753d3e4763791b484f80e519871ea1d5dcf517650",
+      "bytes": 10783
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_MirrorInstructionSeal_Lore_2025-09-29_EN.md",
+      "reason": "agent_or_builder_instruction_not_lore_knowledge",
+      "sha256": "01ef6159b8046ab1b313f0ff98031beee5e9940ba3c5c121132227e2f1189be8",
+      "bytes": 1968
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_U013_TheFestivalOfReflection_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "448eae9d2a5ade3a5bffd18e6456c240fd51747fb8952684bf3275f0de64ec11",
+      "bytes": 1912
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T045_LoreInStoneAndCourage_2024-04-03_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "bf75fc50910d1e8439e5d15c075ca15484adae043e77b879790b5779b081d9a9",
+      "bytes": 4949
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T004_ToadRetribution_2024-03-17_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "0ae47712396d05dbc73816047ed059bf722d028ea60dbd38b20ff3bf6248dda9",
+      "bytes": 3652
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T002_StudyFrogLife_2024-03-17_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "bdc853f3518ba4a6fef5c557ee1fe81e2f995aa153f49aa12cff20a03d433455",
+      "bytes": 3214
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T051_FutureBrightAndInnerBattle_2024-04-12_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "f0a57b5ff8f7212aba73291ebcc2aed3661bd07bbbae735d6fe8cda6375183c4",
+      "bytes": 5579
+    },
+    {
+      "source_file": "lore-scrolls/training/mirror_eval_checks.md",
+      "reason": "non_lore_product_or_training_file",
+      "sha256": "e2e0e99807ad6cdff5eea45e1e75fe1586e85df43f3d0fa0d7962dbd56f2995a",
+      "bytes": 828
+    },
+    {
+      "source_file": "lore-scrolls/Toby/LG-000_Timeline_and_Facts.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "1f0ba1f3c32fea3e6c122f61fede88a9d5d17bbadbe8e63b4a3f365c6d17ee35",
+      "bytes": 558
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_C1014_Onchain_Index_2025-09-26_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "b84b4567bb36b26c2f54304d77134b920eb88212b7cf1b18553149d3dd5df17c",
+      "bytes": 1439
+    },
+    {
+      "source_file": "lore-scrolls/MIRROR_L004_ThePrimeDirective_2025-09-09_EN.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "11e18d7949570dc40396c08c12761f62b6f0ae9c10ea7c59b4552c7503de591d",
+      "bytes": 1873
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T049_TigerCaveAndCourageousEmergence_2024-04-09_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "366ca1ad65a00ded3811874539e03d04160f87f39942502680abc848ca21d0eb",
+      "bytes": 3916
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T029_ProgressAndPatience_2024-03-22_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "701482005d2b2e66b1828dacf7b178611ac080a6f5a57e0dae616e22cdedbc58",
+      "bytes": 6314
+    },
+    {
+      "source_file": "lore-scrolls/qa_poetry_pack_v9.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "afa1732f8f0202dc01cd53ccab84811c99896266d0d448415309ea7854cd6ccc",
+      "bytes": 3824
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_QA_E4_PatchSetG_EN.md",
+      "reason": "aggregate_duplicate_pack",
+      "sha256": "ee08dd775ee3cef1f27d8fdaaf21e8d30f0643804be88b3c4cb5bb7d2dc0a608",
+      "bytes": 2183
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_LORE_V1.1_FULL_EN.md",
+      "reason": "aggregate_duplicate_pack",
+      "sha256": "caa289ba819aaf61e722e18725307486149d967a5cb1637f1b3c638ad558ccaf",
+      "bytes": 248440
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_C1657_ArcOfLore_Index_2025-11-20_EN.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "8e42586395d00bfe0426f5277778e16b4b1f653512bb1d4b6ee60ebb9edc6fa8",
+      "bytes": 4297
+    },
+    {
+      "source_file": "lore-scrolls/ARC_Tag_Report.md",
+      "reason": "outside_toby_public_lore_prefix",
+      "sha256": "7332c00d4437643f192d50f914765bf5f0d57612717070ec209733284bb93ce6",
+      "bytes": 80166
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_L_Index_E4_2025-07-16_EN-ZH.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "4954dd0981045aef520dc19e1f6f4ab65eb5024df3945a2d81e6436d91bf3230",
+      "bytes": 2646
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T102_SznLoadingScroll_2025-07-21.EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "a97f5284ce601d31bfb5217f2607d1793b9d415a25bcf07fb7b408e5d1812507",
+      "bytes": 3786
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T001_TheStreamThatNeverSeeks_2025-12-11_EN-ZH.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "dff158f41a461185b969676cd76ecff8f8fb78c26d06710829a6addf3e871493",
+      "bytes": 2262
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_L566_TheKeepersVow_2025-07-18_EN.md",
+      "reason": "exact_duplicate_of:lore-scrolls/TOBY_L565_TheLanternBearer_2025-07-17_EN.md",
+      "sha256": "c50bddfd79fcab87e3bccaa04873f17d980c7b96485c01505597b6649c2c9925",
+      "bytes": 2187
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_C_Index.md",
+      "reason": "source_index_replaced_by_generated_record_index",
+      "sha256": "13107d401cc4d991050f646906491c423550923ab261b9cf253aa04e30ff871b",
+      "bytes": 5147
+    },
+    {
+      "source_file": "lore-scrolls/TOBY_T083_TaboshiPoeticScroll_2024-11-11_EN.md",
+      "reason": "duplicate_foundation_t_series_represented_by_legacy_json",
+      "sha256": "c0d5eb52c5f7a556f9d99472f85fb3b381dd5dff9762cf03aa22a53abf89dc6d",
+      "bytes": 5275
+    }
+  ]
+}
