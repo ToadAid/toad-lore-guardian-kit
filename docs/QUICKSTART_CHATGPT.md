@@ -4,8 +4,12 @@
 
 1. Open the GPT builder and create a new GPT.
 2. Suggested name: **Study the Lore — Corpus v1**.
-3. Paste the complete contents of [`../SYSTEM_PROMPT.md`](../SYSTEM_PROMPT.md) into **Instructions**.
+3. Paste the complete contents of [`../GPT_INSTRUCTIONS_PROMPT.md`](../GPT_INSTRUCTIONS_PROMPT.md) into **Instructions**.
 4. Keep web browsing disabled for the first closed-book test.
+
+The compact GPT prompt is designed for the GPT Instructions character limit and is self-contained.
+
+Do not paste the Gemini prompt into the GPT Instructions field, combine both prompts, or upload the Gemini prompt as an additional knowledge file.
 
 ## Add knowledge
 
@@ -22,28 +26,51 @@ Upload all 10 files from [`../platforms/chatgpt-gpt`](../platforms/chatgpt-gpt):
 9. `09-codex-reflections-later.jsonl`
 10. `10-corpus-manifest.json`
 
-Upload the files themselves rather than a ZIP archive.
+Upload the extracted files themselves, not a ZIP archive.
 
 ## Save and test
 
-Save the GPT and begin a fresh conversation. Use the same questions used for the Gemini Gem so we can compare retrieval and evidence discipline across platforms:
+Save the GPT and begin a fresh conversation for each important regression test:
 
 ```text
-What is Taboshi?
+What is Toby?
 ```
 
 ```text
-Quick study: What is Rune3?
+Why do I have to study the lore? What is the lore?
 ```
 
 ```text
-Separate what Toadgod directly stated from what the archive interprets about Epoch 3.
+What does “study frog life” mean?
 ```
 
 ```text
-What happened to the proposed Patience Vault? Distinguish the original proposal from its later status.
+What happened to the proposed Rune3 Patience Vault?
 ```
+
+```text
+Show me the sources for your previous answer.
+```
+
+```text
+Check this claim: Studying the lore guarantees future rewards.
+```
+
+A passing GPT should:
+
+- answer simple questions directly and proportionately
+- distinguish Toby, `$TOBY`, Tobyworld, and Toadgang
+- avoid ceremonial introductions and automatic follow-up questions
+- keep record IDs hidden unless sources are explicitly requested
+- provide a compact Sources section only when requested
+- separate direct statements from community interpretation
+- respect later corrections and cancellations
+- avoid promotional language, reward promises, and financial advice
 
 ## Public sharing
 
-Before sharing the GPT publicly, verify that it cites relevant record IDs, labels interpretation, respects corrections and cancellations, avoids financial advice, and does not claim official authority over Tobyworld.
+Before sharing the GPT publicly, test it in fresh conversations.
+
+Record IDs should not appear automatically. They should be shown only when the user explicitly requests sources, citations, evidence records, scroll IDs, repository references, or provenance.
+
+The GPT must not claim that ToadAid owns, controls, endorses, or officially represents Tobyworld.
