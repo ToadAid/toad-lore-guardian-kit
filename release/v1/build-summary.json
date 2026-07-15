@@ -1,0 +1,66 @@
+{
+  "record_count": 4690,
+  "legacy_record_count": 116,
+  "included_markdown_record_count": 4574,
+  "excluded_markdown_file_count": 225,
+  "gemini_zip": {
+    "bytes": 5961305,
+    "sha256": "f8a2e6f08b3c8574ee2d992332cb609c6ff0a39e707c91bccac7d143cb979dab",
+    "file": "toadgod-lore-gemini-gem-public-v1.zip"
+  },
+  "chatgpt_zip": {
+    "bytes": 5960390,
+    "sha256": "b1c6ffabafc7dfd1c071f7edfbae1dae9a564d6c22bf7a7968fb628057b71595",
+    "file": "toadgod-lore-chatgpt-gpt-public-v1.zip"
+  },
+  "full_pack_zip": {
+    "bytes": 12325718,
+    "sha256": "d08bf3773bf47ed3da4f2c11bcf4052416e259d8306c671bf4a77b122762d5d5",
+    "file": "toadgod-lore-agent-pack-public-v1.zip"
+  },
+  "largest_gemini_volume_tokens_approx": 997327,
+  "largest_chatgpt_volume_tokens_approx": 997264,
+  "platform_file_counts": {
+    "gemini-gem": {
+      "file_count": 10,
+      "files": [
+        "01-foundation-source-records.json",
+        "02-lore-scrolls-early.json",
+        "03-lore-scrolls-later.json",
+        "04-community-commentary-early.json",
+        "05-community-commentary-later.json",
+        "06-questions-and-answers-early.json",
+        "07-questions-and-answers-later.json",
+        "08-codex-reflections-early.json",
+        "09-codex-reflections-later.json",
+        "10-corpus-manifest.json"
+      ]
+    },
+    "chatgpt-gpt": {
+      "file_count": 10,
+      "files": [
+        "01-foundation-source-records.jsonl",
+        "02-lore-scrolls-early.jsonl",
+        "03-lore-scrolls-later.jsonl",
+        "04-community-commentary-early.jsonl",
+        "05-community-commentary-later.jsonl",
+        "06-questions-and-answers-early.jsonl",
+        "07-questions-and-answers-later.jsonl",
+        "08-codex-reflections-early.jsonl",
+        "09-codex-reflections-later.jsonl",
+        "10-corpus-manifest.json"
+      ]
+    }
+  },
+  "volume_counts": {
+    "01-foundation-source-records": 118,
+    "02-lore-scrolls-early": 537,
+    "03-lore-scrolls-later": 429,
+    "04-community-commentary-early": 776,
+    "05-community-commentary-later": 885,
+    "06-questions-and-answers-early": 394,
+    "07-questions-and-answers-later": 512,
+    "08-codex-reflections-early": 604,
+    "09-codex-reflections-later": 435
+  }
+}
