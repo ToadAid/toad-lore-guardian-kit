@@ -1,0 +1,83 @@
+ToadAid Lore Guardian Kit — License and Reuse Terms
+Version 1.0 — July 17, 2026
+
+Copyright (c) 2026 ToadAid contributors.
+
+1. ToadAid-authored materials
+
+Unless a file or record states otherwise, original software, scripts, schemas,
+prompt frameworks, documentation, annotations, metadata structures, and other
+materials authored by ToadAid contributors in this repository are licensed
+under the Apache License, Version 2.0.
+
+A copy of the Apache License 2.0 is available at:
+https://www.apache.org/licenses/LICENSE-2.0
+
+You may use, reproduce, modify, and distribute those ToadAid-authored
+materials subject to the terms of Apache License 2.0 and the attribution and
+provenance requirements below.
+
+2. Third-party lore and source material
+
+This repository preserves and organizes public lore, quotations, posts,
+scrolls, URLs, and other source material that may have been authored or owned
+by Toadgod, Tobyworld participants, community members, platforms, or other
+third parties.
+
+ToadAid does not claim ownership of third-party source material and cannot
+license rights it does not own. Inclusion in this repository does not change
+the original ownership, copyright, trademark, platform terms, or other rights
+that may apply to that material.
+
+Users are responsible for determining whether their intended reuse of
+third-party material is permitted by the relevant rights holder and applicable
+law. Where a record identifies an author, source, URL, date, or other
+provenance, those details must be preserved.
+
+3. Corpus compilation and provenance framework
+
+To the extent ToadAid holds rights in the selection, organization, metadata,
+annotations, provenance model, classifications, source identifiers, and
+compilation structure of this corpus, ToadAid grants permission to use,
+reproduce, adapt, and integrate those elements, including in Gemini Gems,
+ChatGPT GPTs, agents, applications, research tools, and community archives.
+
+This permission is conditioned on the following:
+
+- Preserve source IDs, authorship, dates, URLs, classifications, and provenance
+  boundaries where present.
+- Keep direct source quotations distinguishable from summaries,
+  interpretations, annotations, and model-generated inferences.
+- Do not present community interpretation or model output as an original
+  statement by Toadgod or another source author.
+- Do not claim that ToadAid owns, controls, endorses, or officially represents
+  Tobyworld.
+- Do not remove notices identifying third-party ownership or uncertain rights.
+- Clearly mark corrections, cancellations, later status updates, and unknown
+  or disputed claims.
+
+4. Suggested attribution
+
+When using the corpus compilation or provenance framework, use a reasonable
+credit such as:
+
+“Powered by the ToadAid Lore Guardian corpus and provenance framework.”
+
+When reproducing an individual source record, also preserve the record's
+identified source author and provenance information where available.
+
+5. No endorsement, warranty, or financial advice
+
+Permission to use this repository does not imply endorsement by ToadAid,
+Toadgod, Tobyworld, or any source author.
+
+The repository is provided “AS IS”, without warranties or conditions of any
+kind, express or implied. It is an archival and agent-building resource, not
+financial, legal, or investment advice.
+
+6. Conflicts and record-specific notices
+
+A file-level or record-level rights notice controls over these general terms
+for that specific material. If the ownership or reuse status of a source is
+uncertain, treat the source as third-party material with no additional rights
+granted by ToadAid.
