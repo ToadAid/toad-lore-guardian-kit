@@ -97,6 +97,7 @@ A passing guardian should:
 toad-lore-guardian-kit/
 ├── GEM_SYSTEM_PROMPT.md
 ├── GPT_INSTRUCTIONS_PROMPT.md
+├── LICENSE
 ├── README.md
 ├── corpus/
 │   └── record-index.json
@@ -167,9 +168,19 @@ Do not use the corpus to:
 - [`reports/excluded-files.json`](reports/excluded-files.json) documents deterministic exclusions and reasons.
 - [`scripts/build_lore_pack.py`](scripts/build_lore_pack.py) is the reproducible corpus builder.
 
-## License status
+## License and reuse
 
-**No license has been added yet.** The repository is public for viewing and testing, but no broad reuse rights are granted until ToadAid publishes explicit terms.
+This repository now uses a scoped rights model. Read [`LICENSE`](LICENSE) before reusing the corpus or implementation materials.
+
+- Original ToadAid-authored software, scripts, schemas, prompt frameworks, documentation, annotations, metadata structures, and compilation elements are licensed under the Apache License 2.0 unless a file states otherwise.
+- Public lore quotations, posts, scrolls, and other third-party source material remain owned by their respective authors or rights holders. ToadAid does not claim or grant ownership rights over those materials.
+- ToadAid grants permission to use and adapt the corpus compilation and provenance framework for Gems, GPTs, agents, applications, research tools, and community archives, provided source attribution and provenance boundaries are preserved.
+
+Suggested attribution:
+
+> “Powered by the ToadAid Lore Guardian corpus and provenance framework.”
+
+When reproducing an individual source record, also preserve its identified author, source, URL, date, and record provenance where available.
 
 Stillness is not absence.  
 Study before speaking.  
